@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680004102 source:c:\users\pc 32_ec 001s\desktop\314aa\stive\main.c
+	"stive.h"
+
+1680004822 c:\users\pc 32_ec 001s\desktop\314aa\stive\stive.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
+1680007922 source:c:\users\pc 32_ec 001s\desktop\314aa\stive\stive.c
+	"stive.h"
+

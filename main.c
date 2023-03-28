@@ -2,6 +2,6 @@
 
 int main()
 {
-
+    subpunc_b();
     return 0;
 }
